@@ -28,7 +28,11 @@ The initial study proposed a **template-based histogram matching method** for co
 ## 📄 Related Publication
 
 Final results and methodology are detailed in the article:
+
 **"Color standardization of chemical solution images using template-based histogram matching in deep learning regression"**
+
 🖋 Patrycja Kwiek, Małgorzata Jakubowska
+
 📚 *Algorithms*, 2024, Vol. 17, Issue 8, Article No. 335, pp. 1–22
+
 🔗 ISSN: 1999-4893
